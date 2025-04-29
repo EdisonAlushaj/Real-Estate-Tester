@@ -1,0 +1,22 @@
+.contact {
+    width: 100%;
+    height: 27em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.contact-item{
+    font-size: 1.3em;
+    align-items: flex-start;
+}
+
+@media only screen and (max-width: 1100px) {
+    .contact {
+        flex-direction: column;
+    }
+
+    .contact-item{
+        align-items: center;
+    }
+}
