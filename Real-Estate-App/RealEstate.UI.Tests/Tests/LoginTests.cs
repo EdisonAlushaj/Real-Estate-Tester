@@ -21,12 +21,12 @@ namespace RealEstate.UI.Tests.Tests
         }
 
         [Test]
-        public void Should_Login_Successfully()
+        public void Login()
         {
-            driver.Navigate().GoToUrl("http://localhost:3000/login");
+            driver.Navigate().GoToUrl("http://localhost:5173/login");
 
-            driver.FindElement(By.Id("email")).SendKeys("testuser@gmail.com");
-            driver.FindElement(By.Id("password")).SendKeys("Test123!");
+            driver.FindElement(By.Id("username")).SendKeys("Rijadi");
+            driver.FindElement(By.Id("password")).SendKeys("Rijadi#123");
             driver.FindElement(By.CssSelector("button[type='submit']")).Click();
 
             Assert.IsTrue(driver.Url.Contains("/dashboard") || driver.PageSource.Contains("Welcome"));

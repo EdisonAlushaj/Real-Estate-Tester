@@ -136,7 +136,7 @@ function Login() {
               <p className="small mb-3 pb-lg-2">
                 <a className="text-white-50" href="#!">Forgot password?</a>
               </p>
-              <MDBBtn outline className='mx-2 px-5' color='white' size='lg' onClick={GetLoginDetails} disabled={loading}>
+              <MDBBtn outline className='mx-2 px-5' color='white' size='lg' type='submit' onClick={GetLoginDetails} disabled={loading}>
                 {loading ? "Logging in..." : "Login"}
               </MDBBtn>
 
