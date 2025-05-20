@@ -69,3 +69,21 @@ C:\Users\ediso\OneDrive\Desktop\Testimi i Software\Real-Estate-Tester\Real-Estat
 C:\Users\ediso\OneDrive\Desktop\Testimi i Software\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\ediso\OneDrive\Desktop\Testimi i Software\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
 C:\Users\ediso\OneDrive\Desktop\Testimi i Software\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\ref\Application.dll
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\bin\Debug\net8.0\Application.deps.json
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\bin\Debug\net8.0\Application.dll
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\bin\Debug\net8.0\Application.pdb
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\bin\Debug\net8.0\Domain.dll
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\bin\Debug\net8.0\Domain.pdb
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.dll
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\refint\Application.dll
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.pdb
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Application\obj\Debug\net8.0\ref\Application.dll

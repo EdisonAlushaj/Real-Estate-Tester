@@ -57,3 +57,18 @@ C:\Users\ediso\OneDrive\Desktop\Testimi i Software\Real-Estate-Tester\Real-Estat
 C:\Users\ediso\OneDrive\Desktop\Testimi i Software\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\ediso\OneDrive\Desktop\Testimi i Software\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
 C:\Users\ediso\OneDrive\Desktop\Testimi i Software\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.dll
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\bin\Debug\net8.0\Domain.pdb
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.dll
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.pdb
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\Domain\obj\Debug\net8.0\ref\Domain.dll

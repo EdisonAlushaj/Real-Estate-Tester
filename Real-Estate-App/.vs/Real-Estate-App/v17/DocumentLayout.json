@@ -1,20 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ediso\\OneDrive\\Desktop\\Testimi i Software\\Real-Estate-Tester\\Real-Estate-App\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|c:\\users\\ediso\\onedrive\\desktop\\testimi i software\\real-estate-tester\\real-estate-app\\webui\\controllers\\apartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63B3C72A-ACAB-44DF-A37E-444488AD867E}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\apartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EA31D2F-55CF-460B-8A3A-225E0B48EB18}|Application\\Application.csproj|c:\\users\\ediso\\onedrive\\desktop\\testimi i software\\real-estate-tester\\real-estate-app\\application\\features\\property\\apartmentfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EA31D2F-55CF-460B-8A3A-225E0B48EB18}|Application\\Application.csproj|solutionrelative:application\\features\\property\\apartmentfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D509318-2A49-4B2C-A695-FAC4DE793741}|Domain\\Domain.csproj|c:\\users\\ediso\\onedrive\\desktop\\testimi i software\\real-estate-tester\\real-estate-app\\domain\\entities\\prona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D509318-2A49-4B2C-A695-FAC4DE793741}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\prona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Real-Estate-Tester\\Real-Estate-App\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 105,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,43 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Testimi i Software\\Real-Estate-Tester\\Real-Estate-App\\WebUI\\Controllers\\ApartmentsController.cs",
-              "RelativeDocumentMoniker": "WebUI\\Controllers\\ApartmentsController.cs",
-              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Testimi i Software\\Real-Estate-Tester\\Real-Estate-App\\WebUI\\Controllers\\ApartmentsController.cs",
-              "RelativeToolTip": "WebUI\\Controllers\\ApartmentsController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T19:11:54.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApartmentFeature.cs",
-              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Testimi i Software\\Real-Estate-Tester\\Real-Estate-App\\Application\\Features\\Property\\ApartmentFeature.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Property\\ApartmentFeature.cs",
-              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Testimi i Software\\Real-Estate-Tester\\Real-Estate-App\\Application\\Features\\Property\\ApartmentFeature.cs",
-              "RelativeToolTip": "Application\\Features\\Property\\ApartmentFeature.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:20:31.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Prona.cs",
-              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Testimi i Software\\Real-Estate-Tester\\Real-Estate-App\\Domain\\Entities\\Prona.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Prona.cs",
-              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Testimi i Software\\Real-Estate-Tester\\Real-Estate-App\\Domain\\Entities\\Prona.cs",
-              "RelativeToolTip": "Domain\\Entities\\Prona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:19:40.925Z"
             }
           ]
         },
