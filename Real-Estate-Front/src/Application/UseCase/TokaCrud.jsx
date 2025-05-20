@@ -258,55 +258,55 @@ const TokaCrud = () => {
                 <Modal.Body>
                     <Row>
                         <Col>
-                            <input type="text" placeholder="Name" className="form-control" value={emri} onChange={(e) => setEmri(e.target.value)} />
+                            <input type="text" id="name" placeholder="Name" className="form-control" value={emri} onChange={(e) => setEmri(e.target.value)} />
                         </Col>
                         <Col>
-                            <input type="text" placeholder="Address" className="form-control" value={adresa} onChange={(e) => setAdresa(e.target.value)} />
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col>
-                            <input type="number" placeholder="Price" className="form-control" value={price} onChange={(e) => setPrice(e.target.value)} />
-                        </Col>
-                        <Col>
-                            <input type="text" placeholder="Description" className="form-control" value={description} onChange={(e) => setDescription(e.target.value)} />
+                            <input type="text" id="address" placeholder="Address" className="form-control" value={adresa} onChange={(e) => setAdresa(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <select className="form-control" value={type} onChange={(e) => setType(e.target.value)}>
+                            <input type="number" id="price" placeholder="Price" className="form-control" value={price} onChange={(e) => setPrice(e.target.value)} />
+                        </Col>
+                        <Col>
+                            <input type="text" id="description" placeholder="Description" className="form-control" value={description} onChange={(e) => setDescription(e.target.value)} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col>
+                            <select className="form-control" id="type" value={type} onChange={(e) => setType(e.target.value)}>
                                 <option value="" disabled>Select Type</option>
                                 <option value="Rent">Rent</option>
                                 <option value="Sell">Sell</option>
                             </select>
                         </Col>
                         <Col>
-                            <input type="text" placeholder="Land Type" className="form-control" value={landType} onChange={(e) => setLandType(e.target.value)} />
+                            <input type="text" id="landtype" placeholder="Land Type" className="form-control" value={landType} onChange={(e) => setLandType(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <input type="text" placeholder="Zone" className="form-control" value={zona} onChange={(e) => setZona(e.target.value)} />
+                            <input type="text" id="zone" placeholder="Zone" className="form-control" value={zona} onChange={(e) => setZona(e.target.value)} />
                         </Col>
                         <Col>
-                            <input type="text" placeholder="Topography" className="form-control" value={topografiaTokes} onChange={(e) => setTopografiaTokes(e.target.value)} />
+                            <input type="text" id="topography" placeholder="Topography" className="form-control" value={topografiaTokes} onChange={(e) => setTopografiaTokes(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <input type="checkbox" checked={waterSource} onChange={(e) => setWaterSource(e.target.checked)} />
+                            <input type="checkbox" id="watersource" checked={waterSource} onChange={(e) => setWaterSource(e.target.checked)} />
                             Has Water Source
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <input type="file" className="form-control" onChange={(e) => setPhoto(e.target.files[0])} />
+                            <input type="file" id="file" className="form-control" onChange={(e) => setPhoto(e.target.files[0])} />
                         </Col>
                     </Row>
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" onClick={handleCloseAdd}>Close</Button>
-                    <Button variant="primary" onClick={handleSave}>Save</Button>
+                    <Button variant="primary" id="submitBtn" onClick={handleSave}>Save</Button>
                 </Modal.Footer>
             </Modal>
 
@@ -318,43 +318,43 @@ const TokaCrud = () => {
                 <Modal.Body>
                     <Row>
                         <Col>
-                            <input type="text" placeholder="Name" className="form-control" value={editEmri} onChange={(e) => setEditEmri(e.target.value)} />
+                            <input type="text" id="name" placeholder="Name" className="form-control" value={editEmri} onChange={(e) => setEditEmri(e.target.value)} />
                         </Col>
                         <Col>
-                            <input type="text" placeholder="Address" className="form-control" value={editAdresa} onChange={(e) => setEditAdresa(e.target.value)} />
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col>
-                            <input type="number" placeholder="Price" className="form-control" value={editPrice} onChange={(e) => setEditPrice(e.target.value)} />
-                        </Col>
-                        <Col>
-                            <input type="text" placeholder="Description" className="form-control" value={editDescription} onChange={(e) => setEditDescription(e.target.value)} />
+                            <input type="text" id="address" placeholder="Address" className="form-control" value={editAdresa} onChange={(e) => setEditAdresa(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <select className="form-control" value={editType} onChange={(e) => setEditType(e.target.value)}>
+                            <input type="number" id="price" placeholder="Price" className="form-control" value={editPrice} onChange={(e) => setEditPrice(e.target.value)} />
+                        </Col>
+                        <Col>
+                            <input type="text" id="description" placeholder="Description" className="form-control" value={editDescription} onChange={(e) => setEditDescription(e.target.value)} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col>
+                            <select className="form-control" id="type" value={editType} onChange={(e) => setEditType(e.target.value)}>
                                 <option value="" disabled>Select Type</option>
                                 <option value="Rent">Rent</option>
                                 <option value="Sell">Sell</option>
                             </select>
                         </Col>
                         <Col>
-                            <input type="text" placeholder="Land Type" className="form-control" value={editLandType} onChange={(e) => setEditLandType(e.target.value)} />
+                            <input type="text" id="landtype" placeholder="Land Type" className="form-control" value={editLandType} onChange={(e) => setEditLandType(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <input type="text" placeholder="Zona" className="form-control" value={editZona} onChange={(e) => setEditZona(e.target.value)} />
+                            <input type="text" id="zone" placeholder="Zona" className="form-control" value={editZona} onChange={(e) => setEditZona(e.target.value)} />
                         </Col>
                         <Col>
-                            <input type="text" placeholder="Topografia Tokes" className="form-control" value={editTopografiaTokes} onChange={(e) => setEditTopografiaTokes(e.target.value)} />
+                            <input type="text" id="topography" placeholder="Topografia Tokes" className="form-control" value={editTopografiaTokes} onChange={(e) => setEditTopografiaTokes(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <input type="checkbox" checked={editWaterSource} onChange={(e) => setEditWaterSource(e.target.checked)} />
+                            <input type="checkbox" id="watersource" checked={editWaterSource} onChange={(e) => setEditWaterSource(e.target.checked)} />
                             Has WaterSource
                         </Col>
                     </Row>
@@ -366,7 +366,7 @@ const TokaCrud = () => {
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" onClick={handleClose}>Close</Button>
-                    <Button variant="primary" onClick={update}>Update</Button>
+                    <Button variant="primary" id="submitBtn" onClick={update}>Update</Button>
                 </Modal.Footer>
             </Modal>
         </Fragment>

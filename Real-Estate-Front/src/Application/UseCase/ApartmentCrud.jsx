@@ -288,50 +288,50 @@ const ApartmentsCrud = () => {
                 <Modal.Body>
                     <Row>
                         <Col>
-                            <input type="text" placeholder="Name" className="form-control" value={editEmri} onChange={(e) => setEditEmri(e.target.value)} />
+                            <input type="text" id="emri" placeholder="Name" className="form-control" value={editEmri} onChange={(e) => setEditEmri(e.target.value)} />
                         </Col>
                         <Col>
-                            <input type="text" placeholder="Address" className="form-control" value={editAdresa} onChange={(e) => setEditAdresa(e.target.value)} />
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col>
-                            <input type="number" placeholder="Price" className="form-control" value={editPrice} onChange={(e) => setEditPrice(e.target.value)} />
-                        </Col>
-                        <Col>
-                            <input type="text" placeholder="Description" className="form-control" value={editDescription} onChange={(e) => setEditDescription(e.target.value)} />
+                            <input type="text" id="adresa" placeholder="Address" className="form-control" value={editAdresa} onChange={(e) => setEditAdresa(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <select className="form-control" value={editType} onChange={(e) => setEditType(e.target.value)}>
+                            <input type="number" id="price" placeholder="Price" className="form-control" value={editPrice} onChange={(e) => setEditPrice(e.target.value)} />
+                        </Col>
+                        <Col>
+                            <input type="text" id="description" placeholder="Description" className="form-control" value={editDescription} onChange={(e) => setEditDescription(e.target.value)} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col>
+                            <select className="form-control" id="type" value={editType} onChange={(e) => setEditType(e.target.value)}>
                                 <option value="" disabled>Select Type</option>
                                 <option value="Rent">Rent</option>
                                 <option value="Sell">Sell</option>
                             </select>
                         </Col>
                         <Col>
-                            <input type="number" placeholder="Floor" className="form-control" value={editFloor} onChange={(e) => setEditFloor(e.target.value)} />
+                            <input type="number" id="floor" placeholder="Floor" className="form-control" value={editFloor} onChange={(e) => setEditFloor(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <input type="number" placeholder="Rooms" className="form-control" value={editNrDhomave} onChange={(e) => setEditNrDhomave(e.target.value)} />
+                            <input type="number" id="nrDhomave" placeholder="Rooms" className="form-control" value={editNrDhomave} onChange={(e) => setEditNrDhomave(e.target.value)} />
                         </Col>
                         <Col>
-                            <input type="checkbox" checked={editKaAnshensor} onChange={(e) => setEditKaAnshensor(e.target.checked)} />
+                            <input type="checkbox" id="kaAnshensor" checked={editKaAnshensor} onChange={(e) => setEditKaAnshensor(e.target.checked)} />
                             Has Elevator
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <input type="file" className="form-control" onChange={(e) => setEditPhoto(e.target.files[0])} />
+                            <input type="file" id="photo" className="form-control" onChange={(e) => setEditPhoto(e.target.files[0])} />
                         </Col>
                     </Row>
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" onClick={handleClose}>Close</Button>
-                    <Button variant="primary" onClick={update}>Update</Button>
+                    <Button variant="primary" id="submitBtn" onClick={update}>Update</Button>
                 </Modal.Footer>
             </Modal>
         </Fragment>
