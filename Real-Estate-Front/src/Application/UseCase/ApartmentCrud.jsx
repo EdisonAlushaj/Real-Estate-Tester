@@ -233,50 +233,50 @@ const ApartmentsCrud = () => {
                 <Modal.Body>
                     <Row>
                         <Col>
-                            <input type="text" placeholder="Name" className="form-control" value={emri} onChange={(e) => setEmri(e.target.value)} />
+                            <input type="text" id="emri" placeholder="Name" className="form-control" value={emri} onChange={(e) => setEmri(e.target.value)} />
                         </Col>
                         <Col>
-                            <input type="text" placeholder="Address" className="form-control" value={adresa} onChange={(e) => setAdresa(e.target.value)} />
-                        </Col>
-                    </Row>
-                    <Row>
-                        <Col>
-                            <input type="number" placeholder="Price" className="form-control" value={price} onChange={(e) => setPrice(e.target.value)} />
-                        </Col>
-                        <Col>
-                            <input type="text" placeholder="Description" className="form-control" value={description} onChange={(e) => setDescription(e.target.value)} />
+                            <input type="text" id="adresa" placeholder="Address" className="form-control" value={adresa} onChange={(e) => setAdresa(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <select className="form-control" value={type} onChange={(e) => setType(e.target.value)}>
+                            <input type="number" id="price" placeholder="Price" className="form-control" value={price} onChange={(e) => setPrice(e.target.value)} />
+                        </Col>
+                        <Col>
+                            <input type="text" id="description" placeholder="Description" className="form-control" value={description} onChange={(e) => setDescription(e.target.value)} />
+                        </Col>
+                    </Row>
+                    <Row>
+                        <Col>
+                            <select className="form-control" id="type" value={type} onChange={(e) => setType(e.target.value)}>
                                 <option value="" disabled>Select Type</option>
                                 <option value="Rent">Rent</option>
                                 <option value="Sell">Sell</option>
                             </select>
                         </Col>
                         <Col>
-                            <input type="number" placeholder="Floor" className="form-control" value={floor} onChange={(e) => setFloor(e.target.value)} />
+                            <input type="number" id="floor" placeholder="Floor" className="form-control" value={floor} onChange={(e) => setFloor(e.target.value)} />
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <input type="number" placeholder="Rooms" className="form-control" value={nrDhomave} onChange={(e) => setNrDhomave(e.target.value)} />
+                            <input type="number" id="nrDhomave" placeholder="Rooms" className="form-control" value={nrDhomave} onChange={(e) => setNrDhomave(e.target.value)} />
                         </Col>
                         <Col>
-                            <input type="checkbox" checked={kaAnshensor} onChange={(e) => setKaAnshensor(e.target.checked)} />
+                            <input type="checkbox" id="kaAnshensor" checked={kaAnshensor} onChange={(e) => setKaAnshensor(e.target.checked)} />
                             Has Elevator
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <input type="file" className="form-control" onChange={(e) => setPhoto(e.target.files[0])} />
+                            <input type="file" id="photo" className="form-control" onChange={(e) => setPhoto(e.target.files[0])} />
                         </Col>
                     </Row>
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" onClick={handleCloseAdd}>Close</Button>
-                    <Button variant="primary" onClick={handleSave}>Save</Button>
+                    <Button variant="primary" id="submitBtn" onClick={handleSave}>Save</Button>
                 </Modal.Footer>
             </Modal>
 

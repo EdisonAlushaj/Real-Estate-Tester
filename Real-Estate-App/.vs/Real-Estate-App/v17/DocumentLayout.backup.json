@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\Real-Estate-Tester\\Real-Estate-App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E09DB8A-2122-4EB9-852F-61941E141B82}|RealEstate.UI.Tests\\RealEstate.UI.Tests.csproj|c:\\xampp\\htdocs\\real-estate-tester\\real-estate-app\\realestate.ui.tests\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E09DB8A-2122-4EB9-852F-61941E141B82}|RealEstate.UI.Tests\\RealEstate.UI.Tests.csproj|solutionrelative:realestate.ui.tests\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E09DB8A-2122-4EB9-852F-61941E141B82}|RealEstate.UI.Tests\\RealEstate.UI.Tests.csproj|c:\\xampp\\htdocs\\real-estate-tester\\real-estate-app\\realestate.ui.tests\\tests\\rijaditests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E09DB8A-2122-4EB9-852F-61941E141B82}|RealEstate.UI.Tests\\RealEstate.UI.Tests.csproj|solutionrelative:realestate.ui.tests\\tests\\rijaditests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginTests.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\Real-Estate-Tester\\Real-Estate-App\\RealEstate.UI.Tests\\Tests\\LoginTests.cs",
-              "RelativeDocumentMoniker": "RealEstate.UI.Tests\\Tests\\LoginTests.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\Real-Estate-Tester\\Real-Estate-App\\RealEstate.UI.Tests\\Tests\\LoginTests.cs",
-              "RelativeToolTip": "RealEstate.UI.Tests\\Tests\\LoginTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAvAAAAAAAAAA==",
+              "Title": "RijadiTests.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Real-Estate-Tester\\Real-Estate-App\\RealEstate.UI.Tests\\Tests\\RijadiTests.cs",
+              "RelativeDocumentMoniker": "RealEstate.UI.Tests\\Tests\\RijadiTests.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Real-Estate-Tester\\Real-Estate-App\\RealEstate.UI.Tests\\Tests\\RijadiTests.cs",
+              "RelativeToolTip": "RealEstate.UI.Tests\\Tests\\RijadiTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T12:28:02.062Z",
               "EditorCaption": ""

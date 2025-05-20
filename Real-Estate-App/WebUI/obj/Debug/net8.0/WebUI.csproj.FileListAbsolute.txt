@@ -936,4 +936,3 @@ C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\WebUI\bin\Debug\net8.0\zh-Han
 C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\WebUI\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\WebUI\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\WebUI\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\WebUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
