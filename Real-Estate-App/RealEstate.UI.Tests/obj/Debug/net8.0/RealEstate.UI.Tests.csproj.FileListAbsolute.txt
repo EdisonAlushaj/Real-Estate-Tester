@@ -1,0 +1,6 @@
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\RealEstate.UI.Tests\obj\Debug\net8.0\RealEstate.UI.Tests.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\RealEstate.UI.Tests\obj\Debug\net8.0\RealEstate.UI.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\RealEstate.UI.Tests\obj\Debug\net8.0\RealEstate.UI.Tests.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\RealEstate.UI.Tests\obj\Debug\net8.0\RealEstate.UI.Tests.AssemblyInfo.cs
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\RealEstate.UI.Tests\obj\Debug\net8.0\RealEstate.UI.Tests.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Real-Estate-Tester\Real-Estate-App\RealEstate.UI.Tests\obj\Debug\net8.0\RealEstate.UI.Tests.sourcelink.json
